@@ -3,7 +3,7 @@ Link to the App: https://github.com/abhay-1403/VaccineLocater
 ## Technologies Used:- 
 Kotlin , Android Studio 
 ## Objective of the App:- 
-The app is made to displays the nearest vaccination centers according to the pincode and date.
+The app is made to display the nearest vaccination centers according to the pincode and date.
 ## Android Concepts used: - 
 Recycler View , Volley library 
 ### Link to The API used:
