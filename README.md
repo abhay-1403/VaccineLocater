@@ -12,7 +12,10 @@ https://apisetu.gov.in/public/api/cowin
 The App displays the nearest vaccination center according to the pincode and date.
 
 ## Screenshots of the App:
-![wc1](https://user-images.githubusercontent.com/83871414/119835875-dba6d500-bf1e-11eb-98ba-435fd8457e7b.PNG)
-![vc2](https://user-images.githubusercontent.com/83871414/119835885-dea1c580-bf1e-11eb-8151-e61a5c6a2b00.PNG)
-![vc3](https://user-images.githubusercontent.com/83871414/119835889-dfd2f280-bf1e-11eb-85dc-be725b5f5519.PNG)
-![vc4](https://user-images.githubusercontent.com/83871414/119835896-e1041f80-bf1e-11eb-93db-7be678f8d938.PNG)
+![ss1](https://user-images.githubusercontent.com/83871414/178116485-72d30308-06b9-4f01-b3bd-cc0ca91c9371.PNG)
+![ss2](https://user-images.githubusercontent.com/83871414/178116482-708e384f-8ee6-44d7-9db3-a22d5f09e61a.PNG)
+![ss3](https://user-images.githubusercontent.com/83871414/178116478-a1833560-9059-4d53-aa51-8a59051f202b.PNG)
+![ss4](https://user-images.githubusercontent.com/83871414/178116476-773b4b5f-c4a7-4e55-bc34-1850bc0eb5f1.PNG)
+
+
+
